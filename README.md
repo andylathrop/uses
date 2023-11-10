@@ -6,7 +6,7 @@
 
 - Dell XPS 13 9310 laptop
 - Logitech MX Anywhere 3 mouse
-- Anker Bluetooth keyboard
+- Keychron C1 Tenkeyless retro theme keyboard
 - Thrustmaster T.16000M HOTAS
 
 ## Software
