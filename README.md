@@ -11,7 +11,21 @@
 
 ## Software
 
-**Windows** (*necessary at current stage*)
+***nix**
+- Fedora 41
+- Debian Linux (for stable home server)
+- OpenBSD (for cloud server)
+- Hyprland window manager with Waybar
+- Kitty terminal
+- Fish shell (w/ Starship prompt)
+- Vim editor
+- Various [utils](/rice)
+- newsboat RSS reader
+- mutt mail client
+- Steam w/ Proton
+- Calibre
+
+**Windows** (*migrating away from this setup*)
 - Windows 10 Home
 - Firefox (Primary browser)
 - Google Chrome (for Google apps like gmail, calendar, youtube etc...)
@@ -28,18 +42,6 @@
 - Windows Terminal (running PowerShell, *solarized* theme)
 - VMWare Player
 
-***nix**
-- Arch Linux (for fun)
-- Debian Linux (for stable)
-- OpenBSD (for server)
-- i3 window manager
-- Alacritty terminal
-- ZSH shell (w/OhMyZSH)
-- Vim editor
-- Various 'ricing' [utils](/rice)
-- newsboat RSS reader
-- mutt mail client
-
 ## Mobile
 
 - Pixel 6a with Fi
@@ -53,6 +55,7 @@
 - DavX⁵ (contacts and calendar sync)
 - Pocket
 - AirDroid (wireless transfer between laptop and phone)
+- SyncThing
 - Feeder (RSS reader)
 - AnkiDroid (spaced repetition learning)
 
@@ -62,4 +65,4 @@
 
 ---
 
-*Updated on 2023.10.29.Sun*
+*Updated on 2024.12.26.Thu*
